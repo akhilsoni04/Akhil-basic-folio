@@ -3,7 +3,7 @@
 This is my **starter portfolio**, where I showcase my **current projects, technical skills, and coding journey**.  
 In the future, I plan to build a more advanced version with **better design, interactivity, and additional content**.  
 
-##Live Demo
+## Live Demo
 [Check Live Demo](https://akhil-basic-folio.vercel.app/)
 
 ## 📌 Features  
